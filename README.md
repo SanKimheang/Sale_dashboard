@@ -108,14 +108,9 @@ The dataset contains sales transaction records including:
 
 ## 📷 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
-```
-images/dashboard.png
-```
-
-
 ![Dashboard Preview](images/dashboard_0.png)
+![Dashboard Preview](images/dashboard_1.png)
+![Dashboard Preview](images/dashboard_2.png)
 
 ---
 
