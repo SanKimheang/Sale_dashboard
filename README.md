@@ -178,14 +178,14 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**San Kimheang**
 
 Fresh Graduate in Data Science  
 Institute of Technology of Cambodia (ITC)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SanKimheang
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/kimheang-san-8279822b6/
 
 ---
 
