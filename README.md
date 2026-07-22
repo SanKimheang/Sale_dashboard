@@ -118,12 +118,9 @@ The dataset contains sales transaction records including:
 
 ```
 Sales-Dashboard/
+
 │
-├── Dataset/
-│   └── sales_data.xlsx
-│
-├── Dashboard/
-│   └── Sales Dashboard.pbix
+├── Sales Dashboard.pbix
 │
 ├── Images/
 │   └── dashboard.png
